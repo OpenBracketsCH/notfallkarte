@@ -1,27 +1,51 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Landing Page](http://startbootstrap.com/template-overviews/landing-page/)
+# Notfallkarte für Feuerwehren
 
-[Landing Page](http://startbootstrap.com/template-overviews/landing-page/) is a multipurpose landing page template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
+## Ausgangslage
 
-## Getting Started
+Das wichtigste bei einem Feuerwehr-Einsatz ist es, sich schnell eine Übersicht zu verschaffen.Die ersten Minuten eines Einsatzes sind meist hektisch und chaotisch, eine einfache, intuitive Bedienung von Anwendungen daher essentiell. Visualisierung von Einsatzorten und taktischen Gegebenheiten wird bei komplexen Überbauungen und grossen Nachbarschaften immer wichtiger.
 
-To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Start Bootstrap](http://startbootstrap.com/template-overviews/landing-page/)
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-landing-page.git`
-* Fork the repo
+Es gibt bereits Apps und Anwendungen die genau dies erfüllen. Jedoch sind viele davon nicht frei verfügbar und an kostenpflichtige, respektive kostspielige Abos angebunden.
 
-## Bugs and Issues
+Die Lösung sind Open-Source Daten die frei zu Verfügung stehen. In OpenStreetMap lässt sich alles abbilden was man möchte und die Daten stehen allen zu Verfügung. Mit diversen Tools wie uMap und Mapbox lassen sich die Daten nach eigenen Bedürfnissen visualisieren.
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-landing-page/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/landing-page/).
+## Umsetzung
 
-## Creator
+Gestartet wurde das Projekt mit Hydranten mit der Intention so rasch als möglich den nächstgelegenen Hydranten anzuzeigen.
+Das Projekt wurde aber sehr rasch um zusätzliche Daten erweitert, alles einsatzrelevante Daten die wichtig erschienen:
 
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
+*Hydranten
 
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
+**Daten von Sichtungen.
 
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+**Daten von Gemeinde und Kanton.
 
-## Copyright and License
+**schwierig mit reinen Sichtungen zuverlässige Daten zu erheben.
 
-Copyright 2013-2016 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-landing-page/blob/gh-pages/LICENSE) license.
+*Schlüsselrohre
+
+**Schlüsselrohre ermöglichen der Feuerwehr mittels eines Passepartout diese Rohre zu öffnen und den effektiven Schlüssel für den Zugang zum Objekt zu gewährleisten.
+
+**Daten von effektiv bestehenden Schlüsselrohren und einer Liste aller in der Gemeinde befindlichen, zu kontrollierenden Rohre.
+
+*Defibrillatoren
+
+**öffentlich zugängliche Defibrillatoren in der Gemeinde.
+
+**Liste der Gemeinde.
+
+*Einsatzpläne
+
+**grosse oder komplexe Objekte bei denen Feuerwehreinsatzpläne bestehen.
+
+**Verzeichnis bestehender Einsatzpläne und Unterlagen.
+
+*BMA Bedienstellen
+
+**Zugänge für die Feuerwehr um Brandmeldeanlagen und deren Bedienstellen zu erreichen.
+
+**lokales Wissen und Pläne.
+
+*Evakuierungspunkte
+
+**Sammelpunkte für Evakuierungen von Gebäuden.
+
