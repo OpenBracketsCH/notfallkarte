@@ -13,39 +13,39 @@ Die Lösung sind Open-Source Daten die frei zu Verfügung stehen. In OpenStreetM
 Gestartet wurde das Projekt mit Hydranten mit der Intention so rasch als möglich den nächstgelegenen Hydranten anzuzeigen.
 Das Projekt wurde aber sehr rasch um zusätzliche Daten erweitert, alles einsatzrelevante Daten die wichtig erschienen:
 
-*Hydranten
+* Hydranten
 
-**Daten von Sichtungen.
+  * Daten von Sichtungen.
 
-**Daten von Gemeinde und Kanton.
+  * Daten von Gemeinde und Kanton.
 
-**schwierig mit reinen Sichtungen zuverlässige Daten zu erheben.
+  * schwierig mit reinen Sichtungen zuverlässige Daten zu erheben.
 
-*Schlüsselrohre
+* Schlüsselrohre
 
-**Schlüsselrohre ermöglichen der Feuerwehr mittels eines Passepartout diese Rohre zu öffnen und den effektiven Schlüssel für den Zugang zum Objekt zu gewährleisten.
+  * Schlüsselrohre ermöglichen der Feuerwehr mittels eines Passepartout diese Rohre zu öffnen und den effektiven Schlüssel für den Zugang zum Objekt zu gewährleisten.
 
-**Daten von effektiv bestehenden Schlüsselrohren und einer Liste aller in der Gemeinde befindlichen, zu kontrollierenden Rohre.
+  * Daten von effektiv bestehenden Schlüsselrohren und einer Liste aller in der Gemeinde befindlichen, zu kontrollierenden Rohre.
 
-*Defibrillatoren
+* Defibrillatoren
 
-**öffentlich zugängliche Defibrillatoren in der Gemeinde.
+  * öffentlich zugängliche Defibrillatoren in der Gemeinde.
 
-**Liste der Gemeinde.
+  * Liste der Gemeinde.
 
-*Einsatzpläne
+* Einsatzpläne
 
-**grosse oder komplexe Objekte bei denen Feuerwehreinsatzpläne bestehen.
+  * grosse oder komplexe Objekte bei denen Feuerwehreinsatzpläne bestehen.
 
-**Verzeichnis bestehender Einsatzpläne und Unterlagen.
+  * Verzeichnis bestehender Einsatzpläne und Unterlagen.
 
-*BMA Bedienstellen
+* BMA Bedienstellen
 
-**Zugänge für die Feuerwehr um Brandmeldeanlagen und deren Bedienstellen zu erreichen.
+  * Zugänge für die Feuerwehr um Brandmeldeanlagen und deren Bedienstellen zu erreichen.
 
-**lokales Wissen und Pläne.
+  * lokales Wissen und Pläne.
 
-*Evakuierungspunkte
+* Evakuierungspunkte
 
-**Sammelpunkte für Evakuierungen von Gebäuden.
+  * Sammelpunkte für Evakuierungen von Gebäuden.
 
