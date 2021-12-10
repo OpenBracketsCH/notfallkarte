@@ -49,3 +49,26 @@ Das Projekt wurde aber sehr rasch um zusätzliche Daten erweitert, alles einsatz
 
   * Sammelpunkte für Evakuierungen von Gebäuden.
 
+### verwendete OSM Tags
+
+| key | tag | Beschreibung
+|- |- |-
+| emergency | defibrillator| Defibrillatoren
+| emergency | fire_hydrant | Hydranten
+| emergency | assembly_point | Evakuierungspunkte / Sammelplätze
+| emergency | key_depot | Schlüsseldepot Feuerwehr
+| emergency | fire_control_panel| BMA Bedienstellen
+| emergency:plan| yes | Feuerwehr Einsatzplan
+| emergency | siren | ZSO Sirene
+| emergency | disaster_help_point | Notfalltreffpunkte (in Zukunft)
+| emergency| fire_water_pond | Löschwasserbecken
+
+**Solaranlagen mit folgenden Tags versehen:**
+```
+generator:method=photovoltaic
+generator:output:electricity=small_installation
+generator:place=roof
+generator:source=solar
+generator:type=solar_photovoltaic_panel
+power=generator
+```
